@@ -18,7 +18,7 @@ This project focuses on a security-centric IoT robot designed to detect hidden t
 
 ### 🛠️ Hardware Stack
 The system is built using the following components:
-* **Microcontroller:** (e.g., Arduino Uno / ESP32)
+* **Microcontroller:** (e.g., Arduino Nano / ESP32)
 * **Sensors:** * Human Detection (PIR/Thermal)
   * Threat Detection (Metal Detector/Ultrasonic)
 * **Communication:** Wi-Fi Module (for IoT connectivity)
@@ -40,13 +40,13 @@ The system is built using the following components:
 ### 📂 Repository Structure
 * `code/` : Contains the source code for robot movement and sensor integration.
 * `Documentation/` : Full project report and technical specifications.
-* [cite_start]`Published Paper/` : Research paper published in **IJIRCCE (Volume 13, Issue 6)**[cite: 12, 13].
-* `Output Screens/` : Photos of the robot prototype and live detection logs.
+* `Published_Paper/` : Research paper published in **IJIRCCE (Volume 13, Issue 6)**.
+* `Output_Screens/` : Photos of the robot prototype and live detection logs.
 
 ---
 
 ### ⚙️ Setup & Installation
-1. **Clone the repo:** `git clone https://github.com/MITHRA-SILIVERU/Your-Repo-Name.git`
+1. **Clone the repo:** `git clone https://github.com/MITHRA-SILIVERU/IoT-Threat-Detection-Robot.git`
 2. **IDE:** Install Arduino IDE.
 3. **Libraries:** Add necessary libraries for the sensors and WiFi module.
 4. **Hardware:** Connect the sensors as per the circuit diagram in the `Documentation/` folder.
@@ -55,14 +55,14 @@ The system is built using the following components:
 ---
 
 ### 📜 Research & Publication
-[cite_start]This project is backed by a published research paper[cite: 11]:
-* [cite_start]**Title:** "IoT-Enhanced Robot for Human Detection of Concealed Threats" [cite: 12]
-* [cite_start]**Journal:** International Journal of Innovative Research in Computer and Communication Engineering (IJIRCCE) [cite: 1]
-* [cite_start]**Volume/Issue:** Volume 13, Issue 6, June 2025 [cite: 13]
-* [cite_start]**Impact Factor:** 8.771 [cite: 7]
+This project is backed by a published research paper:
+* **Title:** "IoT-Enhanced Robot for Human Detection of Concealed Threats"
+* **Journal:** International Journal of Innovative Research in Computer and Communication Engineering (IJIRCCE)
+* **Volume/Issue:** Volume 13, Issue 6, June 2025
+* **Impact Factor:** 8.771
 
 ---
 
 ### 👨‍💻 Author
-[cite_start]**Mithra Siliveru** [cite: 9]
-[cite_start]Student, Dept. of CSE-IoT, ACE Engineering College, Hyderabad, India [cite: 10]
+**Mithra Siliveru**
+Student, Dept. of CSE-IoT, ACE Engineering College, Hyderabad, India
